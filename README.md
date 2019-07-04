@@ -1,9 +1,9 @@
 # pynvim-hello-world
-A simple set of instructions to write a greeting with the Python Neovim API
+A simple set of instructions to write a greeting with the Python Neovim API.
 
-This is a quick guide to writing a simple Python Plugin for Neovim. You will first need Neovim installed. I then install pynvim from source following their instructions.
+This is a quick guide to writing a simple Python Plugin for Neovim. You will first need Neovim installed. I then installed pynvim from source following [their instructions](https://pynvim.readthedocs.io/en/latest/installation.html#install-from-source).
 
-Write this code to `/home/yourname/.config/nvim/rplugin/python3/greet.py` or another directory that ends `.../nvim/rplugin/python3/some_filename.py
+Write this code to `/home/yourname/.config/nvim/rplugin/python3/greet.py` or another directory that ends `.../nvim/rplugin/python3/some_filename.py`
 
     import pynvim
 
