@@ -7,6 +7,8 @@ Write the following code to
 * `/home/yourname/.config/nvim/rplugin/python3/greet.py` 
 * or another directory that ends `.../nvim/rplugin/python3/some_filename.py` where `...` is a folder on your runtime path. Use `set runtimepath?` to see that.
 
+.
+
     import pynvim
 
     @pynvim.plugin
