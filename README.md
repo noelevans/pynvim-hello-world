@@ -5,7 +5,7 @@ This is a quick guide to writing a simple Python Plugin for Neovim. You will fir
 
 Write the following code to 
 * `/home/yourname/.config/nvim/rplugin/python3/greet.py` 
-* or another directory that ends `.../nvim/rplugin/python3/some_filename.py` where `...` is a folder on your runtime path. (Use `set runtimepath?` to see that.)
+* or another directory that ends `.../nvim/rplugin/python3/some_filename.py` where `...` is a folder on your runtime path. Use `set runtimepath?` to see that.
 
     import pynvim
 
